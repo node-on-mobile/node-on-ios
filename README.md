@@ -14,6 +14,6 @@ We want to match the features of `node-on-android`:
 
 Open Questions:
 
-- Can the ["Node.js meets iOS"](https://github.com/janeasystems/node-mobile-react-demo) framework be used here? 
-- Can the above framework be compiled as a static library and loaded in Objective-C?
-- Can the packaging be done using only CLI tools?
+- Can the ["Node.js meets iOS"](https://github.com/janeasystems/node-mobile-react-demo) framework be used here? ([issue](https://github.com/node-on-mobile/node-on-ios/issues/1))
+- Can the above framework be compiled as a static library and loaded in Objective-C? ([issue](https://github.com/node-on-mobile/node-on-ios/issues/2))
+- Can the packaging be done using only CLI tools? ([issue](https://github.com/node-on-mobile/node-on-ios/issues/3))
